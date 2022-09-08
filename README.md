@@ -1,4 +1,23 @@
-### Olá, Bem vindo ao meu perfil👋
+<h1 align="center"><img src="./hi.gif" height="30"width="30px">Olá, Bem vindo ao meu perfil👋</h1>
+<p align="center">
+   <i>“Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!”</i>
+   <br/>
+   <a href="https://pt.wikipedia.org/wiki/Mario_Sergio_Cortella">Sergio Cortella</a>
+   
+   <br/>
+
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reginaldo-projects&color=yellow" alt="Visualizações do perfil" /> </p>
+
+- 🔥 Análise e modelagem de dados/Projetos
+
+- 🔭 Atualmente estou trabalhando no [ Grupo Elfa ](https://grupoelfa.com.br/quem-somos/).
+
+- ⚡ Conhecimento em Power Platform, Office 365, ETL e SQL.
+
+
+##
+### 📊GitHub Analystcs
 
 <div align="center">
   <a href="https://github.com/reginaldo-projects">
@@ -7,7 +26,7 @@
 </div>
 
 ##
-### Ferramentas e Liguagens:
+### 💻Ferramentas e Liguagens:
 
 
 <div style="display: inline_block"><br>
