@@ -11,7 +11,7 @@
 
 - 🔥 Análise e modelagem de dados/Projetos
 
-- 🔭 Atualmente estou trabalhando no [ Grupo Elfa ](https://grupoelfa.com.br/quem-somos/).
+- 🔭 Atualmente estou trabalhando na [ Spare Partners ](https://sparepartners.com.br/).
 
 - ⚡ Conhecimento em Power Platform, Office 365, ETL e SQL.
 
